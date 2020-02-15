@@ -74,5 +74,7 @@
 		<module>core-java</module>
 		<module>java8</module>
 		<module>multi-threading</module>
+		<module>design-patterns</module>
+		<module>design-principles</module>
 	</modules>
 </project>

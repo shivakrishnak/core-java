@@ -4,7 +4,7 @@ package com.ksk.creational.abstractfactory;
  * Hello world!
  *
  */
-public class App 
+public class Creational
 {
     public static void main( String[] args )
     {
