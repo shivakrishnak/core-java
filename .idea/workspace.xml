@@ -2,48 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25f75e8e-9faf-46af-999a-a30e959d8b49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/java-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/design-patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-principles/design-principles.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core-java/target/core-java-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/target/core-java-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core-java/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/core-java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/target/surefire-reports/TEST-com.java.AppTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core-java/target/surefire-reports/com.java.AppTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/com/ksk/creational/abstractfactory/Creational.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/com/ksk/creational/abstractfactory/Creational.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/ksk/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/ksk/creational/abstractfactory/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/target/design-patterns-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/target/surefire-reports/TEST-com.java.AppTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/target/surefire-reports/com.java.AppTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-patterns/target/test-classes/com/java/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/classes/META-INF/java8.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/design-patterns-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/target/design-patterns-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-principles/target/design-principles-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/design-principles/target/design-principles-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-principles/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/design-principles/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java8/target/java8-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/java8/target/java8-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java8/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/java8/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/java8/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/java8/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/surefire-reports/TEST-com.java.AppTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/target/surefire-reports/com.java.AppTest.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/multi-threading/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/multi-threading/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/multi-threading/target/multi-threading-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/multi-threading/target/multi-threading-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-threading/target/surefire-reports/TEST-com.java.AppTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-threading/target/surefire-reports/com.java.AppTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/java8/target/" />
@@ -61,20 +31,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/ksk/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            <state relative-caret-position="170">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/ksk/creational/abstractfactory/Creational.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="136">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -198,29 +168,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ksk" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-project" type="462c0819:PsiDirectoryNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ksk" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-project" type="462c0819:PsiDirectoryNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ksk" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -231,9 +178,9 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/java8/src/main/java/com/ksk" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -345,7 +292,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21275167" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21275167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -454,17 +401,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/ksk/App.java">
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/ksk/creational/abstractfactory/Creational.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        <state relative-caret-position="136">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/ksk/creational/abstractfactory/Creational.java">
+    <entry file="file://$PROJECT_DIR$/design-patterns/src/main/java/com/ksk/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="170">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
