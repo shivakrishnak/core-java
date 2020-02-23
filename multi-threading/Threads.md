@@ -1,17 +1,19 @@
 ### Design Principles
 
-##### Encapsulate what varies
--	Identify the aspects of your application that vary and seperate them from what stays the same.
+##### Join()
+-	When we invoke join() method on a thread, the calling thread goes into waiting state. It remains in the waiting state until the referenced  thread terminates.
+- Eg. A thread calls B.join(), then A thread will wait till B thread finishes its task
 
-##### Program to an Interface, Not an Implementation
--	Clients remain unaware of the specific types of objects they use, as long as the objects adhere to the interfaces that clients expect.	
+##### Volatile
+- Every read of a volatile variable will be read from the RAM so from the main memory, not from the cache 
+- Usually variables are cached for performance reasons. Every thread has its own CPU and Cache. Caches are faster.
+- Performance is impacted if volatile is used as it is makes app slower
 
-##### Loose Coupling
--	Strive for loosely coupled designs between objects that interact
--	We say objects are loosely coupled when they interact with each other(coupled), but they don't know a 		lot about each other(loosely Coupled)
-	
-##### The Open-Closed Principle
--	Classes should be open for extension(of behavior) but closed for modification.
-
-##### Single Responsibility
-- 	A class should have only one reason to change
+##### Deadlock
+- Deadlock is a situation in which two or more competing actions are each waiting for the other to finish, and thus never moves forward
+- Databases -> deadlock happens when two processes each within its own transaction updates two rows of information but in the opposite order. For example, process A updates row1 then row 2 in the exact time frame that process B updates row 2 then row 1
+##### Livelock
+- A thread often acts in response to the action of another thread.
+- If the other thread's action is also a response to the action of another thread is Livelock
+- Livelocked threads are unable to make further progress. However the threads are not blocked , they are simply too busy responding to each other to resume work.
+- Eg, when two people attempting to pass through narrow path, A moves left to let B pass, while B moves right to let A pass. They are blocking each other 
