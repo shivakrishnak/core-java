@@ -1,2 +1,11 @@
-com\ksk\App.class
+com\ksk\creational\strategy\Duck.class
+com\ksk\creational\strategy\FlyWithWings.class
 com\ksk\creational\abstractfactory\Creational.class
+com\ksk\creational\strategy\Quack.class
+com\ksk\creational\strategy\Squeak.class
+com\ksk\creational\strategy\QuackBehaviour.class
+com\ksk\App.class
+com\ksk\creational\strategy\FlyWithNoWings.class
+com\ksk\creational\strategy\DuckSimulator.class
+com\ksk\creational\strategy\FlyBehaviour.class
+com\ksk\creational\strategy\MallardDuck.class
