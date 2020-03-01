@@ -1,4 +1,4 @@
-### Design Principles
+### Threads
 
 ##### Join()
 -	When we invoke join() method on a thread, the calling thread goes into waiting state. It remains in the waiting state until the referenced  thread terminates.
