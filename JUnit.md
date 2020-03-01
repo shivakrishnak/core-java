@@ -1,5 +1,14 @@
+### JUnit
+- Java Library used for unit testing
+- Examine a small piece of code, to assert the expected behaviour and state
+- Junit provides automated testing and validation
+- Integration testing = to test the entire system
+- Performance testing = to benchmark the software by running repetedly to simulated user traffic on application
+- Test Suite = to combine and run mulitple test class
+
+
 ### JUnit5
-Modules = Platform + Jupiter + Vintage
+JUnit5 Modules = Platform + Jupiter + Vintage
 - Platform - Execution Engine
 - Vintage - Runs legacy tests , junit4 , for backward compatibility
 - Jupiter - New JUnit5 programming model
@@ -7,13 +16,15 @@ Modules = Platform + Jupiter + Vintage
 	-	TestEngine API
 	-	Launcher API
 
-#### Junit4 Vs JUnit5 differences
-@Before			@BeforeEach
-@After			@AfterEach
-@BeforeClass	@BeforeAll
-@AfterClass		@AfterAll
-@Ignore			@Disabled
+##### Junit4 Vs JUnit5 differences
 
+- @Before		=	@BeforeEach
+- @After		=	@AfterEach
+- @BeforeClass = 	@BeforeAll
+- @AfterClass	=	@AfterAll
+- @Ignore		~	@Disabled
+
+##### Annotations
 
 -	@DisplyName = Custome Name for a test case, can be seen while running tests and in reports	
 -	@assertAll = allows to group different assertions at the same time(putting assertions in a sequence like parameters in method)
