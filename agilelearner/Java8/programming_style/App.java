@@ -3,7 +3,31 @@ import java.util.List;
 
 public class App {
 
+
+    public interface Fly{
+        default void takeOff(){
+            System.out.println("Fly:takeOff");
+        }
+        static void fly(){
+            System.out.println("Fly:Flying");
+        }
+    }
+
+    public class Vehicle implements Fly{
+        public void run() {
+            Fly.fly();
+
+        }
+    }
+
+    public void name() {
+        Vehicle veh = new Vehicle();
+        veh.run(); 
+        veh.takeOff();
+    }
     public static void main(String[] args) {
+
+        new App().name();
         List<String> names = Arrays.asList("bob","jack","sarah","jil","tom");
 
         // String personWith3Letter = "";
