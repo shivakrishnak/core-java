@@ -2,8 +2,8 @@
 
 ##### Lambda Expressions
 - lambda expression is an anonymous function
-- enables you to treat functionality as an arguement and code as data.
-- 
+- Enables you to treat functionality as an arguement and code as data.
+- Lambda expressions represent an anonymous function that implements the single abstract method of a functional interface
 
 ##### Interfaces vs Abstract Method
 - Interfaces cannot have state while abstract classes can have state
