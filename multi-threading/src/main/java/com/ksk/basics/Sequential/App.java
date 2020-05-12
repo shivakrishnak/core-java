@@ -3,7 +3,7 @@ package com.ksk.basics.Sequential;
 class Runner1 {
 
 	public void startRunning() {
-		for (int i = 0; i < 10; i++) {
+		for (int i = 0; i < 5; i++) {
 			System.out.println("Runner1 :" + i);
 		}
 	}
@@ -12,7 +12,7 @@ class Runner1 {
 class Runner2 {
 
 	public void startRunning() {
-		for (int i = 0; i < 10; i++) {
+		for (int i = 0; i < 5; i++) {
 			System.out.println("Runner2 :" + i);
 		}
 	}

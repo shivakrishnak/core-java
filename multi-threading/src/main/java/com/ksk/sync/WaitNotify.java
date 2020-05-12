@@ -11,12 +11,21 @@ class Processor {
 		}
 	}
 	
+	public void producer() throws InterruptedException{
+		synchronized (this) {
+			System.out.println("Second Producer Method...");
+			wait();
+			//wait(5000);
+			System.out.println("Second producer method");
+		}
+	}
+	
 	public void consume() throws InterruptedException{
 		Thread.sleep(1000);
 		synchronized (this) {
 			System.out.println("Consumer method...");
-			notify();
-			//notifyAll();
+			//notify();
+			notifyAll();
 			Thread.sleep(1000);
 		}
 	}
@@ -36,6 +45,16 @@ public class WaitNotify {
 				}
 			}
 		});
+		Thread t = new Thread(new Runnable() {
+			public void run() {
+				try {
+					process.producer();
+				} catch (InterruptedException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+		});
 		Thread t2 = new Thread(new Runnable() {
 			public void run() {
 				try {
@@ -48,11 +67,12 @@ public class WaitNotify {
 		});
 		
 		t1.start();
+		t.start();
 		t2.start();
-		
 		try {
 			t1.join();
 			t2.join();
+			t.join();
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
