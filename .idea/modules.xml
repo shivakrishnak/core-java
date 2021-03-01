@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/core-java/core-java.iml" filepath="$PROJECT_DIR$/core-java/core-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-patterns/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns/design-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-principles/design-principles.iml" filepath="$PROJECT_DIR$/design-principles/design-principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-practice/java-practice.iml" filepath="$PROJECT_DIR$/java-practice/java-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-project.iml" filepath="$PROJECT_DIR$/.idea/java-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/multi-threading/multi-threading.iml" filepath="$PROJECT_DIR$/multi-threading/multi-threading.iml" />

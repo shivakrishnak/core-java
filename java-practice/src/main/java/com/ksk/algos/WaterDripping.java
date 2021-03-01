@@ -1,4 +1,4 @@
-package com.ksk.snippets;
+package com.ksk.algos;
 
 import java.util.Arrays;
 import java.util.Scanner;

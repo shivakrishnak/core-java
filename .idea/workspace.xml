@@ -5,10 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25f75e8e-9faf-46af-999a-a30e959d8b49" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/java-practice/java-practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/java-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java-project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-threading/src/main/java/com/ksk/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/multi-threading/src/main/java/com/ksk/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-threading/target/classes/com/ksk/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/multi-threading/target/classes/com/ksk/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a6f5820c6698d09506eed3e9cd01d0403ae5645" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9eac574a044cf8cc177ee83d594cb1bef928d26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/design-patterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/design-patterns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/classes/com/ksk/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/design-patterns-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/target/test-classes/com/java/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-principles/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/design-principles/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-principles/design-principles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design-principles/design-principles.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-principles/target/classes/com/ksk/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-principles/target/design-principles-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-principles/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-principles/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-principles/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-principles/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-principles/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-principles/target/test-classes/com/java/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-practice/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/java-practice/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-practice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-practice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-practice/src/main/java/com/ksk/snippets/WaterDripping.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-practice/src/main/java/com/ksk/algos/WaterDripping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-threading/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/multi-threading/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-threading/multi-threading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/multi-threading/multi-threading.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-threading/target/classes/com/ksk/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-threading/target/test-classes/com/java/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +92,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/java8/src/main/java/com/ksk" />
