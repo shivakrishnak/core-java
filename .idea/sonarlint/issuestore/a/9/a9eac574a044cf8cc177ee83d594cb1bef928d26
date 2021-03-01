@@ -1,0 +1,26 @@
+
+Q
+java:S1068"1Remove this unused "EXTENSION_LOG" private field.(«°ûúÿÿÿÿ8÷®£±.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(â¤š¨ıÿÿÿÿ8¡Î¤±.
+[	java:S125"<This block of commented-out lines of code should be removed.(¼ëéşûÿÿÿÿ8•ìè£±.
+M
+java:S1068"-Remove this unused "EXTENSION" private field.(Ğ›¤úÿÿÿÿ8÷®£±.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(¨õá¸ûÿÿÿÿ8ıùô£±.
+E
+java:S1172"*Remove this unused method parameter "dir".(Àä¶û8¯³ş£±.
+[	java:S125"<This block of commented-out lines of code should be removed.(¿üâ—üÿÿÿÿ8ÀúŸ¤±.
+y	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Å¬˜£ûÿÿÿÿ8÷à¼¢±.
+y
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8÷®£±.
+I
+java:S1444".Make this "public static finalMap" field final(äÂŸ8±³Ğ£±.
+a
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Å¬˜£ûÿÿÿÿ8÷®£±.
+G
+java:S1602",Remove useless curly braces around statement(ÍèŸ™8 £ó£±.
+o
+java:S1104"TMake finalMap a static final constant or non-public and provide accessors if needed.(äÂŸ8±³Ğ£±.
+ä
+java:S1598"ÃThis file "ReadLogAndFindKeywords.java" should be located in "com\shiva\auth" directory, not in "C:\Users\Shivakrishna_Kurremu\OneDrive - EPAM\myGit\java-project\core-java\src\main\java\com\ksk".(¸‚ãÏúÿÿÿÿ8ä›Í¥û.
+L
+java:S1481",Remove this unused "keyword" local variable.(©û‰šüÿÿÿÿ8ä›Í¥û.
