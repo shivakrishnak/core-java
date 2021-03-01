@@ -1,10 +1,6 @@
 package com.ksk.java8.streams;
 
-import com.sun.applet2.AppletParameters;
-
 import java.util.*;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 public class Streams1 {
 
@@ -21,7 +17,7 @@ public class Streams1 {
     }
 
     private static Person getStudent() {
-        return new Person(getRandomString(), getRandomString(), getRandomString(),getRandomString());
+        return new Person(getRandomString(), getRandomString(), getRandomString(), getRandomString());
     }
 
     private static String getRandomString() {
@@ -30,7 +26,7 @@ public class Streams1 {
 }
 
 
-class Person{
+class Person {
     private String name;
     private String school;
     private String address;
