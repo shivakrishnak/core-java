@@ -76,7 +76,7 @@
     </pluginManagement>
   </build>
 	<modules>
-		<module>java-practice</module>
+		<!--<module>java-practice</module>-->
 		<module>multi-threading</module>
 		<module>design-patterns</module>
 		<module>design-principles</module>
