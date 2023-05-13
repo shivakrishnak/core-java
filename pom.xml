@@ -10,11 +10,7 @@
   <name>java-tutorials</name>
 
   <modules>
-    <module>java-core</module>
+    <module>java</module>
     <module>java8</module>
-    <module>agilelearner</module>
-    <module>design-patterns</module>
-    <module>design-principles</module>
-    <module>multi-threading</module>
   </modules>
 </project>
