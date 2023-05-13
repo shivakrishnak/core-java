@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.ksk</groupId>
-  <artifactId>java-tutorials</artifactId>
+  <artifactId>java-tutorial</artifactId>
   <version>1.0.0</version>
   <packaging>pom</packaging>
 
-  <name>java-tutorials</name>
+  <name>java-tutorial</name>
 
   <modules>
     <module>java</module>
