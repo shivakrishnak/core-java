@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.List;
 
-public class App {
+public class Streams1 {
 
 
     public interface Fly{
