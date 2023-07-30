@@ -12,6 +12,5 @@
   <modules>
     <module>java</module>
     <module>java8</module>
-    <module>java-interview</module>
   </modules>
 </project>
