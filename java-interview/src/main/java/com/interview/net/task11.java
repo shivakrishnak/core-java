@@ -1,4 +1,4 @@
-public class Test {
+class Test2 {
     public static void main(String[] args) {
         method(null);
     }
@@ -9,9 +9,8 @@ public class Test {
         System.out.println("String method");
     }
 }
-____________________________________________________________
 
-public class Main
+class Main2
 {
 	public static void main(String[] args) {
 		print();
@@ -28,9 +27,8 @@ public class Main
 		m += " World!";
 	}
 }
-____________________________________________________________
 
-public class InternExample{  
+class InternExample{
       public static void main(String args[]){  
          String s1=new String("hello");  
          String s2="hello";  
